@@ -1,0 +1,66 @@
+* {
+    padding: 8px;
+    margin: 5px;
+}
+
+.container-fluid {
+    border: solid 2px black;
+    width: 40%;
+    margin: 5px;
+    padding-bottom: 1em;
+    float:left;
+}
+
+.text-center {
+    color: white;
+}
+
+.btn btn-default btn-block {
+    border: solid 1px black;
+    
+}
+
+button {
+    width: 35%;
+}
+
+.container {
+    border: solid 2px black;
+    float: left;
+    width: 50%;
+    margin: auto;
+    margin-right: 1em;
+    padding-bottom: 1em;
+    color: white;
+    padding-top: 1em;
+}
+
+.cd {
+    width: 100%;
+    background-color: white;
+    color: #8BAC8F;
+    padding-left: 1em;
+}
+
+.col-md-8 {
+    border: solid 1px black;
+    padding: 10px 2px 10px 2px;
+    margin: 2px;
+    text-align: center;
+}
+
+.col-md-2 {
+    border: solid 1px black;
+    padding: 10px 2px 10px 2px;
+    margin: 2px;
+    text-align:center;
+}
+
+hr {
+    background-color: white;
+}
+
+label {
+    margin-top: 30px;
+    color: white;
+}
